@@ -8,7 +8,7 @@ import nltk
 from nltk.tokenize import sent_tokenize
 import re
 
-model_path = "../code/saved_fine_tuned_model"  # Update this with the correct relative path to your model
+model_path = "../saved_fine_tuned_model"  # Update this with the correct relative path to your model
 tokenizer = GPT2Tokenizer.from_pretrained(model_path)
 model = GPT2LMHeadModel.from_pretrained(model_path)
 # Define the genre options
