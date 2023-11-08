@@ -78,3 +78,8 @@ We have created a way to automated ideation and storyboarding using generative A
 
 - Improve the text generation model, train it to generate multiple scenarios.
 - Work on training an image generator on a custom dataset, and not rely on a pre-trained model.
+
+**Note**
+
+Please download the below link to the saved model. The code uses this model to generate text.
+Link: https://drive.google.com/drive/folders/1YdKtxkVgQEsPaDiGsIwVIO9aXIna-pDY?usp=sharing
